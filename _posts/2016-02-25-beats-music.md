@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-25T19:23:38.999Z'
-dateModified: '2016-02-25T19:21:57.925Z'
+datePublished: '2016-02-25T19:21:34.330Z'
+dateModified: '2016-02-25T19:21:28.627Z'
 title: Beats Music
 author: []
 sourcePath: _posts/2016-02-25-beats-music.md
