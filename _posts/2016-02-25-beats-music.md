@@ -3,25 +3,26 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-25T19:18:03.231Z'
-dateModified: '2016-02-25T19:18:02.755Z'
+datePublished: '2016-02-25T19:23:38.999Z'
+dateModified: '2016-02-25T19:21:57.925Z'
+title: Beats Music
+author: []
+sourcePath: _posts/2016-02-25-beats-music.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Beats Music
-author: []
-sourcePath: _posts/2016-02-25-beats-music.md
-published: true
 url: beats-music/index.html
 _type: Article
 
 ---
 # Beats Music
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e7342fc-d7aa-4dc7-a38d-d126b77e7ad6.jpg)
 
 * Creative EngineerTechnical Director
