@@ -21,8 +21,8 @@ color:
     - '#afc2ce'
     - '#427185'
     - '#0a0e0d'
-  brandStrength: 0.125
-  lightness: 0.9375
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
