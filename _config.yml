@@ -1,7 +1,7 @@
 name: niall
 favicon: null
-layout_spectrum: 0.8605472252238542
-typography_spectrum: 0.721278817858547
+layout_spectrum: 0.46473
+typography_spectrum: 0.51378
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.9646201014984399
-  lightness: 0.6085927665699273
-  saturation: 0.8794973557814956
-  rhythmicContrast: 0.01890150923281908
+  brandStrength: 0.125
+  lightness: 0.9375
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
